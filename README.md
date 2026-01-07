@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thejas R
 - 👀 I’m interested in webdev and exploring new technologies
-- 🌱 I’m currently learning 3rd year B.E in CSE
+- 🌱 I’m final year CSE undergraduate studeent
 - 💞️ I’m looking to collaborate on projects where I can learn new tech and build strong foundation on tech.
 - 📫 You can reach me through mail:thejasravi403@gmail.com||Mobile:7406519468
 - 😄 Pronouns: ...
